@@ -2,13 +2,13 @@
 
 # 📘 Project Description
 <p align="justify">
-This project presents an analytical exploring beverage sales performance across German regions from 2020 to 2024. The dataset includes detailed information about customer types, product categories, pricing, discounts, regional locations, and purchasing dates. Data cleaning and preparation were conducted using Python in Google Colab, while the analysis focuses on identifying customer patterns, sales trends, and product performance. The analysis answers key business questions such as the best selling beverage products, differences between B2B and B2C customers, regional sales variations, seasonal demand fluctuations, discount impacts on revenue, and overall purchasing behavior across regions. This project demonstrates how raw beverage sales data can be converted into an insigh -driven analytical report that supports strategic decision making and market understanding.
+This project presents an analytical exploring beverage sales performance across German regions from 2020 to 2024. The dataset includes detailed information about customer types, product categories, pricing, discounts, regional locations, and purchasing dates. Data cleaning and preparation were conducted using Python in Google Colab, while the analysis focuses on identifying customer patterns, sales trends, and product performance. The analysis answers key business questions such as the best selling beverage products, differences between B2B and B2C customers, regional sales variations, seasonal demand fluctuations, discount impacts on revenue, and overall purchasing behavior across regions. This project demonstrates how raw beverage sales data can be converted into an insigh driven analytical report that supports strategic decision making and market understanding.
 </p>
 
 # 🧠 Skill Showcase
 - Data cleaning and preprocessing   
 - Feature engineering for sales metrics  
-- Time-based trend analysis  
+- Time based trend analysis  
 - Customer segmentation (B2B vs B2C)  
 - Regional sales performance evaluation  
 - Product and category-level performance exploration  
